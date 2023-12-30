@@ -1,0 +1,341 @@
+drugbank_id,Name,Protein_name,Canonical Smiles,Binding_score
+DB03350,Cobalt hexammine ion,Retinol-binding protein 3,[NH3+][Co-3]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+],13.25
+DB06767,Ammonium chloride,Cathepsin L1,[Cl-].[NH4+],12.63
+DB14547,Chloride ion,Chromobox protein homolog 5,[Cl-],11.11
+DB09116,Calcium carbimide,Phenylalanine--tRNA ligase alpha subunit,[Ca+2].[N-]=C=[N-],10.69
+DB09129,Chromic chloride,Calcium-dependent secretion activator 2,[Cl-].[Cl-].[Cl-].[Cr+3],9.95
+DB01164,Calcium chloride,BoNT/A,[Ca+2].[Cl-].[Cl-],9.73
+DB14206,Cobalt chloride,ATP-citrate synthase,[Cl-].[Cl-].[Co+2],9.38
+DB04212,2-Iminiopropanoate,Oxygen-insensitive NADPH nitroreductase,CC(=[NH2+])C(=O)[O-],9.33
+DB14527,Chromic nitrate,Neurexin-1,O=[N+]([O-])[O-].O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Cr+3],9.28
+DB13209,Bismuth subnitrate,"HLA class II histocompatibility antigen, DRB1-15 beta chain",O=[N+]([O-])[O-].O=[N+]([O-])[O-].O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Bi+3].[Bi+3].[Bi+3].[Bi+3].[Bi+3].[O-2].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-],8.7
+DB06723,Aluminum hydroxide,Ribosomal small subunit pseudouridine synthase A,[Al+3].[OH-].[OH-].[OH-],8.55
+DB03842,2-Chloro-6-Methyl-Aniline,Thymidine kinase,C=C1C=CC=C(C)C1N,8.54
+DB01788,4-Imino-5-Methidyl-2-Methylpyrimidine,Clavaminate synthase 1,C=C1C=NC(C)=NC1=N,8.52
+DB13100,Biguanide,Protein P,N=C(N)NC(=N)N,8.49
+DB01804,"2-Ammoniobut-3-Enoate, 2-Amino-3-Butenoate",Stromelysin-1,C=CC([NH3+])C(=O)[O-],8.48
+DB02559,"6-(Octahydro-1h-Indol-1-Ylmethyl)Decahydroquinazoline-2,4-Diamine",Membrane protein,NC1NC(N)C2CC(CN3CCC4CCCCC43)CCC2N1,8.46
+DB02995,Cyclohexylammonium Ion,Serine/threonine-protein kinase SIK2,[NH3+]C1CCCCC1,8.46
+DB02838,"3,4-Dihydro-2h-Pyrrolium-5-Carboxylate",Tyrosine-protein kinase CSK,O=C([O-])C1=[NH+]CCC1,8.45
+DB01735,3-Chloroalaninate,Inter-alpha-trypsin inhibitor heavy chain H1,[NH3+]C(CCl)C(=O)[O-],8.41
+DB14755,beta-Isosparteine,Lantibiotic cinnamycin,C1CCN2CC3CC(CN4CCCCC34)C2C1,8.41
+DB08921,(4R)-limonene,Excitatory amino acid transporter 1,C=C(C)C1CC=C(C)CC1,8.4
+DB09278,Activated charcoal,"Triosephosphate isomerase, glycosomal",[C],8.35
+DB06768,Ammonium lactate,Methylaspartate ammonia-lyase,CC(O)C(=O)[O-].[NH4+],8.33
+DB03627,Adamantane,"Apoptosis-inducing factor 1, mitochondrial",C1C2CC3CC1CC(C2)C3,8.31
+DB15573,alpha-Pinene,cAMP-dependent protein kinase inhibitor alpha,CC1=CCC2CC1C2(C)C,8.3
+DB02435,Aminomethylcyclohexane,Pantothenate synthetase,[NH3+]CC1CCCCC1,8.28
+DB01802,"(4R)-7-Aza-7,8-dihydrolimonene","Glutaminase kidney isoform, mitochondrial",CC1=CCC(N(C)C)CC1,8.27
+DB09406,Chlormerodrin Hg-197,Thyroxine-binding globulin,COC(C[Hg+])CNC(N)=O.[Cl-],8.27
+DB02299,Arginineamide,GDP-mannose 6-dehydrogenase,NC(=[NH2+])NCCCC(N)C(N)=O,8.26
+DB04528,"2,4-Dinitrophenol",Pyruvate synthase,O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1,8.23
+DB11344,(+)-menthol,Low affinity immunoglobulin gamma Fc region receptor III-A,CC1CCC(C(C)C)C(O)C1,8.23
+DB04472,(R)-1-Para-Nitro-Phenyl-2-Azido-Ethanol,Protein-arginine deiminase type-1,[N-]=[N+]=NCC(O)c1ccc([N+](=O)[O-])cc1,8.2
+DB13294,Azidamfenicol,3-oxoacyl-[acyl-carrier-protein] synthase 1,[N-]=[N+]=NCC(=O)NC(CO)C(O)c1ccc([N+](=O)[O-])cc1,8.19
+DB13028,Biapenem,Anoctamin-1,CC(O)C1C(=O)N2C(C(=O)[O-])=C(SC3Cn4cnc[n+]4C3)C(C)C12,8.19
+DB12139,Alisporivir,Ribosomal protein S6 kinase alpha-4,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)C(C)C(=O)N(CC)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,8.17
+DB02125,Adamantanone,NADPH--cytochrome P450 reductase,O=C1C2CC3CC(C2)CC1C3,8.16
+DB03906,2-Phenylheme,Hypoxanthine-guanine phosphoribosyltransferase,C=CC1=C(C)C2=[N+]3C1=Cc1c(C)c(CCC(=O)O)c4n1[Fe]31n3c(c(C)c(C=C)c3=C2)=CC2=[N+]1C(=C4c1ccccc1)C(CCC(=O)O)=C2C,8.16
+DB06880,"(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-PROP-1-YN-1-YLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE",Carboxypeptidase E,CC#CC1CCC(CN)N1C(=O)C(N)C1CCCC1,8.16
+DB15574,beta-Pinene,"Polyhydroxybutyrate depolymerase, putative",C=C1CCC2CC1C2(C)C,8.13
+DB00488,Altretamine,Prostatic acid phosphatase,CN(C)c1nc(N(C)C)nc(N(C)C)n1,8.12
+DB01855,5-(Hydroxy-Methyl-Amino)-3-Methyl-Pyrrolidine-2-Carboxylic Acid,"Trans-2,3-dihydro-3-hydroxyanthranilate isomerase",CC1CC(N(C)O)NC1C(=O)O,8.12
+DB08999,Cyclopentamine,Tripartite terminase subunit 1,CNC(C)CC1CCCC1,8.12
+DB03432,Beta-Amino Isobutyrate,Cytochrome f,CC(CN)C(=O)[O-],8.12
+DB04070,6-Deoxyerythronolide B,Carboxypeptidase A1,CCC1OC(=O)C(C)C(O)C(C)C(O)C(C)CC(C)C(=O)C(C)C(O)C1C,8.1
+DB13068,9-(N-methyl-L-isoleucine)-cyclosporin A,"Mannosyl-oligosaccharide alpha-1,2-mannosidase",CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(C(C)CC)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,8.09
+DB02310,"3,5,6,8-Tetramethyl-N-Methyl Phenanthrolinium",DNA (cytosine-5)-methyltransferase 3B,Cc1cnc2c(c1)c(C)c(C)c1cc(C)c[n+](C)c12,8.09
+DB03228,"5-[Bis-2(Chloro-Ethyl)-Amino]-2,4-Dintro-Benzamide",Chorismate mutase AroH,NC(=O)c1cc(N(CCCl)CCCl)c([N+](=O)[O-])cc1[N+](=O)[O-],8.09
+DB11205,Alcloxa,Flavodoxin,NC(=O)NC1NC(=O)[N-]C1=O.[Al+3].[Al+3].[Cl-].[OH-].[OH-].[OH-].[OH-],8.08
+DB07356,"(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-ETHYNYLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE",Insulin-like growth factor 1 receptor,C#CC1CCC(CN)N1C(=O)C(N)C1CCCC1,8.08
+DB04804,"(2S)-2,3-Diaminobutanoic acid",5-phosphohydroxy-L-lysine phospho-lyase,CC(N)C(N)C(=O)O,8.08
+DB08858,cis-Diamminechlorocholylglycinateplatinum(II),60S ribosomal protein L4,CC(CCC([O-])=NCC(=O)[O-])C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C.Cl.N.N.[Pt+2],8.07
+DB01426,Ajmaline,Cytidine deaminase,CCC1C2CC3C4N(C)c5ccccc5C45CC(C2C5O)N3C1O,8.07
+DB15199,Ciraparantag,Glutamate dehydrogenase,N=C(N)NCCCC(N)C(=O)NCCCN1CCN(CCCNC(=O)C(N)CCCNC(=N)N)CC1,8.06
+DB16854,Caryophyllene,Proteasome subunit alpha type-3,C=C1CCC=C(C)CCC2C1CC2(C)C,8.05
+DB15684,"2,3-dichloro-5,6-dicyanobenzoquinone",50S ribosomal protein L16,N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O,8.05
+DB15587,Antimony potassium tartrate,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC,O.O.O.O=C([O-])C([O-])C([O-])C(=O)[O-].O=C([O-])C([O-])C([O-])C(=O)[O-].[K+].[K+].[Sb+3].[Sb+3],8.05
+DB06755,Beta carotene,Succinate dehydrogenase iron-sulfur subunit,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C,8.05
+DB03988,"2,6-Diamino-Hexanoic Acid Amide",Thioredoxin reductase,NC(=O)C(N)CCCC[NH3+],8.04
+DB01705,Bis(5-Amidino-Benzimidazolyl)Methane,Nucleoid-associated protein Lsr2,NC(=[NH2+])c1ccc2nc(Cc3nc4ccc(C(=[NH2+])[NH3+])cc4[nH]3)[nH]c2c1,8.04
+DB03874,"(4e,8e,12z,16z)-N,N,4,8,13,17,21-Heptamethyldocosa-4,8,12,16,20-Pentaen-1-Amine","Glutamate receptor ionotropic, kainate 4",CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCCN(C)C,8.03
+DB07671,"2-[1-METHYLHEXYL]-4,6-DINITROPHENOL",Fatty-acid amide hydrolase 1,CCCCCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,8.02
+DB13746,Bioallethrin,Leptin receptor,C=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,8.02
+DB11573,Aluminum chlorohydrate,Uracil-DNA glycosylase,O.[Al+3].[Al+3].[Cl-].[OH-].[OH-].[OH-].[OH-].[OH-],8.02
+DB03320,3-Amino-Alanine,C4b-binding protein beta chain,NC(C[NH3+])C(=O)O,8.01
+DB14531,Carbonate ion,"Naphthalene 1,2-dioxygenase subunit alpha",O=C([O-])[O-],7.99
+DB03180,"4,5-Dimethyl-1,2-phenylenediamine",Holo-[acyl-carrier-protein] synthase,Cc1cc(N)c(N)cc1C,7.99
+DB15917,Camphene,MKL/myocardin-like protein 1,C=C1C2CCC(C2)C1(C)C,7.99
+DB09275,Bismuth subcitrate potassium,Ketimine reductase mu-crystallin,O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-].O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-].[Bi+3].[K+].[K+].[K+].[K+].[K+],7.99
+DB02699,4-Oxoretinol,MAP kinase-activated protein kinase 2,CC(C=CC1=C(C)C(=O)CCC1(C)C)=CC=CC(C)=CCO,7.99
+DB02680,"1,3-Dinitrobenzene",Substance-P receptor,O=[N+]([O-])c1cccc([N+](=O)[O-])c1,7.98
+DB14038,beta-Sitosterol,P2Y purinoceptor 2,CCC(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C,7.97
+DB02885,4-Imino-5-Methidyl-2-Trifluoromethylpyrimidine,"Acetolactate synthase, catabolic",C=C1C=NC(C(F)(F)F)=NC1=N,7.97
+DB03551,"(3R,4R)-3-Hydroxy-4-(hydroxymethyl)-1-[(4-oxo-4,4a,5,7a-tetrahydro-3H-pyrrolo[3,2-d]pyrimidin-7-yl)methyl]pyrrolidinium",Arginase-1,O=C1NC=NC2C(C[NH+]3CC(O)C(CO)C3)=CNC12,7.97
+DB03184,5-Amino-3-Methyl-Pyrrolidine-2-Carboxylic Acid,"Glucan 1,4-alpha-maltotetraohydrolase",CC1CC(N)NC1C(=O)O,7.95
+DB03443,bis(5-amidino-benzimidazolyl)methanone zinc,ABC transporter ATP-binding protein,NC(N)c1ccc2c(c1)[nH]c1[n+]2[Zn][n+]2c([nH]c3cc(C(N)N)ccc32)C1=O,7.93
+DB04830,Buformin,Geranylgeranyl transferase type-1 subunit beta,CCCCN=C(N)N=C(N)N,7.93
+DB04891,Becocalcidiol,Galactokinase,C=C1C(O)CC(=CC=C2CCCC3(C)C2CCC3C(C)CC)CC1O,7.92
+DB07796,"(3ASR,4RS,8ASR,8BRS)-4-(2-(4-FLUOROBENZYL)-1,3-DIOXODEACAHYDROPYRROLO[3,4-A] PYRROLIZIN-4-YL)BENZAMIDINE",DNA oxidative demethylase ALKBH2,NC(=[NH2+])c1ccc(C2C3C(=O)N(Cc4ccc(F)cc4)C(=O)C3C3CCCN32)cc1,7.92
+DB02949,2-Acetyl-Protoporphyrin Ix,fMet-Leu-Phe receptor,C=CC1C2=Cc3c(C)c(CCC(=O)O)c4n3[Fe]35N2C(=C1C)C=C1C(C(=C)O)C(C)=C(C=c2c(C)c(CCC(=O)O)c(n23)=C4)N15,7.91
+DB11846,Creatinine,Mitogen-activated protein kinase kinase kinase kinase 5,CN1CC(=O)NC1=N,7.91
+DB16631,"1,3-Bis((1-methylethyl)amino)propan-2-ol",Adenosine receptor A1,CC(C)NCC(O)CNC(C)C,7.91
+DB08127,"1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohexene",Pro-neuropeptide Y,CC=C(C)C=CC1=C(C)CCCC1(C)C,7.91
+DB03224,2-Formyl-Protoporphryn Ix,5-hydroxytryptamine receptor 3B,C=CC1C2=Cc3[n-]c(c(CCC(=O)O)c3C)C=c3[n-]c(c(C)c3CCC(=O)O)=Cc3[n-]c(c(=CO)c3C)=CC(=C1C)[N-]2.[Fe+4],7.9
+DB07741,"4-(1R,3AS,4R,8AS,8BR)-[1-DIFLUOROMETHYL-2-(4-FLUOROBENZYL)-3-OXODECAHYDROPYRROLO[3,4-A]PYRROLIZIN-4-YL]BENZAMIDINE",Adenylate kinase,NC(N)c1ccc(C2C3C(=O)N(Cc4ccc(F)cc4)C(C(F)F)C3C3CCCN32)cc1,7.9
+DB04351,Aconitate Ion,Candidapepsin-2,O=C([O-])C=C(CC(=O)[O-])C(=O)[O-],7.9
+DB13097,1alpha-Hydroxyvitamin D5,Alpha-2B adrenergic receptor,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCC(CC)C(C)C)CC(O)CC1O,7.9
+DB14107,7-Aminodesacetoxycephalosporanic acid,Beta-lactamase TEM,CC1=C(C(=O)O)N2C(=O)C(N)C2SC1,7.9
+DB03065,7-Nitroindazole-2-Carboxamidine,"Cytochrome c oxidase subunit 8A, mitochondrial",N=C(N)n1cc2cccc([N+](=O)[O-])c2n1,7.9
+DB02978,Beta-Hydroxyleucine,Death-associated protein kinase 3,CC(C)C(O)C(N)C(=O)O,7.89
+DB13705,Decamethoxine,Replicase polyprotein 1ab,CC1CCC(C(C)C)C(OC(=O)C[N+](C)(C)CCCCCCCCCC[N+](C)(C)CC(=O)OC2CC(C)CCC2C(C)C)C1.[Cl-].[Cl-],7.88
+DB02665,"(1R,2S)-2-Phenylcyclopropanaminium","Phytanoyl-CoA dioxygenase, peroxisomal",[NH3+]C1CC1c1ccccc1,7.88
+DB00970,Dactinomycin,Apoptosis regulator BAX,Cc1c2oc3c(C)ccc(C(=O)NC4C(=O)NC(C(C)C)C(=O)N5CCCC5C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC4C)c3nc-2c(C(=O)NC2C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c(N)c1=O,7.88
+DB12268,Carmegliptin,Uteroglobin,COc1cc2c(cc1OC)C1CC(N)C(N3CC(CF)CC3=O)CN1CC2,7.87
+DB14058,Basifungin,DNA mismatch repair protein MutL,CCC(C)C1OC(=O)C(C(C)C)N(C)C(=O)C(CC(C)C)NC(=O)C(C(C)C)N(C)C(=O)C(C(C)C(C)C)NC(=O)C2CCCN2C(=O)C(Cc2ccccc2)N(C)C(=O)C(Cc2ccccc2)NC(=O)C(C(C)C)NC1=O,7.87
+DB03503,"4-Acetyl-4-guanidino-6-methyl(propyl)carboxamide-4,5-dihydro-2H-pyran-2-carboxylic acid",Signal peptidase I,CCCN(C)C(=O)C1OC(C(=O)O)=CC(NC(=N)N)C1NC(C)=O,7.87
+DB07402,Azapropazone,Membrane protein involved in aromatic hydrocarbon degradation,C=CCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,7.87
+DB00091,Cyclosporine,Beta-lactamase,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,7.86
+DB01742,(3r)-1-Acetyl-3-Methylpiperidine,Extracellular calcium-sensing receptor,CC(=O)N1CCCC(C)C1,7.86
+DB08158,"2,4-DINITROPHENYL 2-DEOXY-2-FLUORO-BETA-D-MANNOPYRANOSIDE",Apolipoprotein(a),O=[N+]([O-])c1ccc(OC2OC(CO)C(O)C(O)C2F)c([N+](=O)[O-])c1,7.86
+DB03420,"2,4-deoxy-4-guanidino-5-N-acetyl-neuraminic acid",Serpin B9,CC(=O)NC1C(N=C(N)N)CC(C(=O)O)OC1C(O)C(O)CO,7.85
+DB01978,"7,9-Dimethylguanine",Class B acid phosphatase,Cn1c[n+](C)c2c1NC(N)NC2O,7.85
+DB04541,Cyclo(prolylglycyl),Serine/threonine-protein kinase PRP4 homolog,O=C1NCC(=O)N2CCCC12,7.85
+DB04709,"(3AALPHA,4ALPHA,7ALPHA,7AALPHA)- 3A,4,7,7A-TETRAHYDRO-2-(4-NITRO-1-NAPHTHALENYL)-4,7-ETHANO-1H-ISOINDOLE-1,3(2H)-DIONE","Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",O=C1C2C3CCC(CC3)C2C(=O)N1c1ccc([N+](=O)[O-])c2ccccc12,7.84
+DB02002,2-Aminoprop-2-Enamide,G-protein coupled estrogen receptor 1,C=C(N)C(N)=O,7.84
+DB05874,AEOL-10150,Dihydrolipoyl dehydrogenase,CCn1cc[n+](CC)c1-c1c2nc(c(-c3n(CC)cc[n+]3CC)c3ccc([n-]3)c(-c3n(CC)cc[n+]3CC)c3nc(c(-c4n(CC)cc[n+]4CC)c4ccc1[n-]4)C=C3)C=C2.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Mn+3],7.84
+DB09050,Ceftolozane,Placenta growth factor,Cn1c(N)c(NC(=O)NCCN)c[n+]1CC1=C(C(=O)[O-])N2C(=O)C(NC(=O)C(=NOC(C)(C)C(=O)O)c3nsc(N)n3)C2SC1,7.83
+DB07072,"(1S,2R,5S)-5-[3-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[4,3-A]PYRAZIN-7(8H)-YL]-2-(2,4,5-TRIFLUOROPHENYL)CYCLOHEXANAMINE",Follicle-stimulating hormone receptor,NC1CC(N2CCn3c(nnc3C(F)(F)F)C2)CCC1c1cc(F)c(F)cc1F,7.83
+DB01637,"3,7,11,15-tetramethyl-hexadecan-1-ol",50S ribosomal protein L22,CC(C)CCCC(C)CCCC(C)CCCC(C)CCO,7.83
+DB04706,7beta-hydroxycholesterol,Cell division control protein 42 homolog,CC(C)CCCC(C)C1CCC2C3C(O)C=C4CC(O)CCC4(C)C3CCC12C,7.83
+DB03789,"2,3-Dimethylimidazolium Ion",Cyclin-dependent kinases regulatory subunit 1,Cc1[nH+]ccn1C,7.82
+DB00915,Amantadine,Aspartate carbamoyltransferase catalytic chain,NC12CC3CC(CC(C3)C1)C2,7.82
+DB04114,"3-Chloro-9-Ethyl-6,7,8,9,10,11-Hexahydro-7,11-Methanocycloocta[B]Quinolin-12-Amine",Immunoglobulin lambda variable 3-21,CCC1=CC2Cc3nc4cc(Cl)ccc4c(N)c3C(C1)C2,7.82
+DB03820,"(2S,5R,6R)-6-({(6S)-6-[(Ammonioacetyl)amino]-6-carboxylatohexanoyl}amino)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate",Phospholipase D2,CC1(C)SC2C(NC(=O)CCCCC(NC(=O)C[NH3+])C(=O)[O-])C(=O)N2C1C(=O)[O-],7.82
+DB02105,"3,5-Dinitrocatechol",Transcription factor p65,O=[N+]([O-])c1cc(O)c(O)c([N+](=O)[O-])c1,7.81
+DB08685,"1-(1,4-dimethyl-1,2,3,4-tetrahydroquinoxalin-6-yl)methanamine",Activin receptor type-1,CN1CCN(C)c2cc(CN)ccc21,7.81
+DB02120,"6-Amino-4-Hydroxymethyl-Cyclohex-4-Ene-1,2,3-Triol",Cytidylate kinase,NC1C=C(CO)C(O)C(O)C1O,7.8
+DB08810,Cinitapride,Glyceraldehyde-3-phosphate dehydrogenase,CCOc1cc(N)c([N+](=O)[O-])cc1C(=O)NC1CCN(CC2CC=CCC2)CC1,7.8
+DB02300,Calcipotriol,Lantibiotic nisin-Z,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(O)C2CC2)CC(O)CC1O,7.8
+DB07581,5-AMINO-6-CYCLOHEXYL-4-HYDROXY-2-ISOPROPYL-HEXANOIC ACID,Trypanothione reductase,CC(C)C(CC(O)C(N)CC1CCCCC1)C(=O)O,7.8
+DB07339,"(3S)-3-hydroxy-1-methyl-2,3-dihydro-1H-indole-5,6-dione",Bile acid receptor,CN1CC(O)C2=CC(=O)C(=O)C=C21,7.79
+DB04027,D-arginine,Nuclear factor NF-kappa-B p100 subunit,N=C(N)NCCCC(N)C(=O)O,7.79
+DB11859,Brexanolone,Mitogen-activated protein kinase kinase kinase 2,CC(=O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C,7.79
+DB02133,Chlorophyll A,Reverse transcriptase,C=Cc1c(C)c2cc3nc(c4c5[n-]c(cc6nc(cc1[n-]2)C(C)=C6CC)c(C)c5C(=O)C4C(=O)OC)C(CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C3C.[Mg+2],7.79
+DB15027,Adriforant,"Benzoate 1,2-dioxygenase electron transfer component",CNC1CCN(c2cc(NCC3CC3)nc(N)n2)C1,7.79
+DB02143,1-hydroxy-2-isopropylguanidine,Minor histocompatibility antigen H13,CC(C)N=C(N)NO,7.78
+DB07490,"2-[1-(4-CHLORO-PHENYL)-ETHYL]-4,6-DINITRO-PHENOL",Urokinase-type plasminogen activator,CC(c1ccc(Cl)cc1)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,7.78
+DB07703,"(3R,4S,5S,7R,9E,11R,12R)-12-ETHYL-4-HYDROXY-3,5,7,11-TETRAMETHYLOXACYCLODODEC-9-ENE-2,8-DIONE",5'-AMP-activated protein kinase subunit beta-1,CCC1OC(=O)C(C)C(O)C(C)CC(C)C(=O)C=CC1C,7.78
+DB01436,Alfacalcidol,Serine/threonine-protein kinase Sgk1,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)C)CC(O)CC1O,7.78
+DB05434,ABT-510,Meso-diaminopimelate D-dehydrogenase,CCCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)CN(C)C(C)=O)C(C)C)C(C)CC)C(C)O)C(=O)NC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC)C(C)CC,7.78
+DB03239,"3',5'-Dinitro-N-Acetyl-L-Thyronine",50S ribosomal protein L4,CC(=O)NC(Cc1ccc(Oc2cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c2)cc1)C(=O)O,7.77
+DB02914,Anhydrovitamin A,Lipid binding protein,C=CC(C)=CC=CC(C)=CC=C1C(C)=CCCC1(C)C,7.77
+DB13585,Aminoethyl nitrate,Glutamate decarboxylase alpha,NCCO[N+](=O)[O-],7.77
+DB06442,Avasimibe,cGMP-gated cation channel alpha-1,CC(C)c1cc(C(C)C)c(CC(=O)NS(=O)(=O)Oc2c(C(C)C)cccc2C(C)C)c(C(C)C)c1,7.77
+DB04857,Brasofensine,Prolyl endopeptidase FAP,CON=CC1C(c2ccc(Cl)c(Cl)c2)CC2CCC1N2C,7.77
+DB03964,4-Hydroxy-Aconitate Ion,Response regulator PleD,O=C([O-])C=C(C(=O)[O-])C(O)C(=O)[O-],7.77
+DB05541,Brivaracetam,COUP transcription factor 1,CCCC1CC(=O)N(C(CC)C(N)=O)C1,7.77
+DB03646,"2,3-di-O-phytanyl-sn-glycerol",5-hydroxytryptamine receptor 2A,CC(C)CCCC(C)CCCC(C)CCCC(C)CCOCC(CO)OCCC(C)CCCC(C)CCCC(C)CCCC(C)C,7.77
+DB06993,"(2S,3S)-4-cyclopropyl-3-{(3R,5R)-3-[2-fluoro-4-(methylsulfonyl)phenyl]-1,2,4-oxadiazolidin-5-yl}-1-[(3S)-3-fluoropyrrolidin-1-yl]-1-oxobutan-2-amine",Acetyl-CoA carboxylase 2,CS(=O)(=O)c1ccc(C2NOC(C(CC3CC3)C(N)C(=O)N3CCC(F)C3)N2)c(F)c1,7.76
+DB01884,2-Amino-3-Methyl-1-Pyrrolidin-1-Yl-Butan-1-One,Retinoic acid receptor responder protein 1,CC(C)C(N)C(=O)N1CCCC1,7.76
+DB08044,ABT-341,Uridine 5'-monophosphate synthase,NC1CC(C(=O)N2CCn3c(nnc3C(F)(F)F)C2)=CCC1c1cc(F)c(F)cc1F,7.75
+DB11393,Danofloxacin,Histone deacetylase 10,CN1CC2CC1CN2c1cc2c(cc1F)c(=O)c(C(=O)O)cn2C1CC1,7.75
+DB08088,"2-chloro-4-{[(1R,3Z,7S,7aS)-7-hydroxy-1-(trifluoromethyl)tetrahydro-1H-pyrrolo[1,2-c][1,3]oxazol-3-ylidene]amino}-3-methylbenzonitrile",Matrix metalloproteinase-26,Cc1c(N=C2OC(C(F)(F)F)C3C(O)CCN23)ccc(C#N)c1Cl,7.75
+DB02073,Biliverdine IX Alpha,B2 bradykinin receptor,C=CC1=C(C)C(=CC2=NC(=Cc3[nH]c(C=C4NC(=O)C(C)=C4C=C)c(C)c3CCC(=O)O)C(CCC(=O)O)=C2C)NC1=O,7.74
+DB09277,Choline C 11,Grancalcin,C[N+](C)(C)CCO.[Cl-],7.74
+DB01455,19-Nor-5-androstenediol,D(1A) dopamine receptor,CC12CCC3C4CCC(O)CC4=CCC3C1CCC2O,7.74
+DB03213,Bis(5-Amidino-2-Benzimidazolyl)Methane Ketone,Serine/threonine-protein kinase Chk2,N=C(N)c1ccc2nc(C(=O)c3nc4cc(C(=[NH2+])[NH3+])ccc4[nH]3)[nH]c2c1,7.74
+DB13830,Copper usnate,Tyrosine-protein kinase receptor UFO,CC(=O)c1c([O-])c(C)c([O-])c2c1OC1=CC(=O)C(C(C)=O)C(=O)C12C.[Cu+2],7.74
+DB04540,Cholesterol,Protein S100-A6,CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,7.74
+DB11279,Brilliant green cation,Potassium voltage-gated channel subfamily C member 1,CCN(CC)c1ccc(C(=C2C=CC(=[N+](CC)CC)C=C2)c2ccccc2)cc1,7.74
+DB01554,Bolandiol,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,CC12CCC3C4CCC(O)C=C4CCC3C1CCC2O,7.73
+DB13677,Carboquone,DNA-directed RNA polymerase subunit alpha,COC(COC(N)=O)C1=C(N2CC2)C(=O)C(C)=C(N2CC2)C1=O,7.73
+DB14882,CEP-9722,Interleukin-17A,COc1cccc2[nH]c3c4c(c5c(c3c12)C(=O)N(CN1CCN(C)CC1)C5=O)CCC4,7.73
+DB01333,Cefradine,Calcium-activated potassium channel subunit alpha-1,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)C3=CCC=CC3)C2SC1,7.73
+DB04710,(E)-(S)-4-[(S)-4-METHYL-2-((S)-3-METHYL-2{(S)-2-[(5-METHYL-ISOXAZOLE-3- CARBONYL)-AMINO]-PROPIONYLAMINO}-BUTYRYLAMINO)-PENTANOYLAMINO]-5-((S)-2- OXO-PYRROLIDIN-3-YL)-PENT-2-ENOIC ACID ETHYL ESTER,"Tryptophan--tRNA ligase, mitochondrial",CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(C)NC(=O)c1cc(C)on1)C(C)C,7.73
+DB03127,Benzamidine,Respiratory nitrate reductase 1 beta chain,NC(=[NH2+])c1ccccc1,7.73
+DB15347,Branebrutinib,Lipoprotein lipase,CC#CC(=O)NC1CCCN(c2c(F)cc(C(N)=O)c3[nH]c(C)c(C)c23)C1,7.73
+DB03710,[(1S)-4-(1-Aminobutylideneamino)-1-carboxybutyl]azanium,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1,CCCC(N)=NCCCC([NH3+])C(=O)O,7.73
+DB12442,Alvespimycin,UDP-galactose 4-epimerase,COC1C=CC=C(C)C(=O)NC2=CC(=O)C(NCCN(C)C)=C(CC(C)CC(OC)C(O)C(C)C=C(C)C1OC(N)=O)C2=O,7.72
+DB06756,Betaine,Non-receptor tyrosine-protein kinase TYK2,C[N+](C)(C)CC(=O)[O-],7.72
+DB03892,5-N-Allyl-arginine,Alpha-amylase 1,C=CCNC(N)=[NH+]CCCC(N)C(=O)O,7.72
+DB08838,Agmatine,"dTDP-glucose 4,6-dehydratase",N=C(N)NCCCCN,7.72
+DB02390,5-Bromo-N[2-(Dimethylamino)Ethyl]-9-Aminoacridine-4-Carboxamide,Neuraminidase,C[NH+](C)CCNC(=O)c1cccc2c(N)c3cccc(Br)c3[nH+]c12,7.72
+DB07135,"(2S,3S)-3-AMINO-4-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-N,N-DIMETHYL-4-OXO-2-(TRANS-4-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-5-YLCYCLOHEXYL)BUTANAMIDE","Propionyl-CoA carboxylase beta chain, mitochondrial",CN(C)C(=O)C(C1CCC(c2cccc3ncnn23)CC1)C(N)C(=O)N1CCC(F)C1,7.72
+DB02864,Biliverdin Ix Gamma Chromophore,N-terminal kinase-like protein,C=Cc1c(C=c2[nH]c(=CC3=NC(=O)C(CCC(=O)O)=C3C)c(C=C)c2C)[nH]c(C=C2N=C(O)C(CCC(=O)O)=C2C)c1C,7.72
+DB07988,"2-[3-(5-Mercapto-[1,3,4]thiadiazol-2yl)-ureido]-N-methyl-3-pentafluorophenyl-propionamide",Catalase-peroxidase,CNC(=O)C(Cc1c(F)c(F)c(F)c(F)c1F)NC(=O)Nc1nnc(S)s1,7.71
+DB14716,Clonazolam,"Heat shock protein 110, putative",Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1Cl)=NC2,7.71
+DB01434,19-norandrostenedione,D(3) dopamine receptor,CC12CCC3C4CCC(=O)C=C4CCC3C1CCC2=O,7.71
+DB03094,"3,5-Dihydro-5-Methylidene-4h-Imidazol-4-On",Receptor activity-modifying protein 3,CC(N)C1NC(CN)C(=O)N1CC(=O)O,7.71
+DB14050,Cannabidivarin,30S ribosomal protein S20,C=C(C)C1CCC(C)=CC1c1c(O)cc(CCC)cc1O,7.71
+DB11191,Cobamamide,Cytochrome P450 2E1,CC1=C2[N+]3=C(C=C4[N+]5=C(C(C)=C6N7C8C(CC(N)=O)C6(C)CCC(=O)NCC(C)OP(=O)([O-])OC6C(CO)OC(C6O)n6c[n+](c9cc(C)c(C)cc96)[Co-3]753(CC3OC(n5cnc6c(N)ncnc65)C(O)C3O)[N+]3=C1C(CCC(N)=O)C(C)(CC(N)=O)C83C)C(CCC(N)=O)C4(C)C)C(CCC(N)=O)C2(C)CC(N)=O,7.71
+DB07823,"(2S)-2-[(3aR,4R,7S,7aS)-1,3-dioxooctahydro-2H-4,7-methanoisoindol-2-yl]propanoic acid",Alanine aminotransferase 2,CC(C(=O)O)N1C(=O)C2C3CCC(C3)C2C1=O,7.7
+DB09012,Carbazochrome,Genome polyprotein,CN1CC(O)C2=CC(=NNC(N)=O)C(=O)C=C21,7.7
+DB14511,Acetate,Ornithine carbamoyltransferase chain I,CC(=O)[O-],7.7
+DB06634,Casopitant,Proteasome subunit alpha type-5,CC(=O)N1CCN(C2CCN(C(=O)N(C)C(C)c3cc(C(F)(F)F)cc(C(F)(F)F)c3)C(c3ccc(F)cc3C)C2)CC1,7.7
+DB07154,"(3R)-4-[(3R)-3-AMINO-4-(2,4,5-TRIFLUOROPHENYL)BUTANOYL]-3-METHYL-1,4-DIAZEPAN-2-ONE","Argininosuccinate synthetase, isoform CRA_a",CC1C(=O)NCCCN1C(=O)CC(N)Cc1cc(F)c(F)cc1F,7.7
+DB13221,Apronalide,mRNA-capping enzyme,C=CCC(C(=O)NC(N)=O)C(C)C,7.69
+DB04771,1-GUANIDINO-4-(N-NITRO-BENZOYLAMINO-L-LEUCYL-L-PROLYLAMINO)BUTANE,Penicillin-binding protein 1A,CC(C)CC(NC(=O)c1ccc([N+](=O)[O-])cc1)C(=O)N1CCCC1C(=O)NCCCCN=C(N)N,7.69
+DB03549,Biotinyl P-Nitroaniline,Integrin beta-7,O=C(CCCCC1SCC2NC(=O)NC21)Nc1ccc([N+](=O)[O-])cc1,7.68
+DB03164,6-amino-1-methyl-7H-purin-1-ium,Rhomboid protease GlpG,C[n+]1cnc2nc[nH]c2c1N,7.68
+DB12591,BMS-911543,Growth/differentiation factor 8,CCn1c(C(=O)N(C2CC2)C2CC2)cc2c3c(ncn3C)c(Nc3cc(C)n(C)n3)nc21,7.68
+DB14518,Aluminum acetate,Deoxyuridine triphosphatase,CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Al+3],7.68
+DB03705,6-Methylamino-5-Nitroisocytosine,Histone deacetylase 3,CNc1nc(N)[nH]c(=O)c1[N+](=O)[O-],7.68
+DB06733,Bafilomycin A1,Eukaryotic peptide chain release factor GTP-binding subunit ERF3A,COC1=CC(C)=CC(C)C(O)C(C)CC(C)=CC=CC(OC)C(C(C)C(O)C(C)C2(O)CC(O)C(C)C(C(C)C)O2)OC1=O,7.68
+DB00475,Chlordiazepoxide,Tachykinin-3,CNC1=Nc2ccc(Cl)cc2C(c2ccccc2)=[N+]([O-])C1,7.68
+DB02875,CRA_1802,Mitogen-activated protein kinase kinase kinase 15,NC(=[NH2+])c1ccc2[nH]c(-c3cc(F)ccc3[O-])nc2c1,7.68
+DB08200,(1R)-menthyl hexyl phosphonate group,Interleukin-3 receptor subunit alpha,CCCCCCP(=O)(O)OC1CC(C)CCC1C(C)C,7.67
+DB01835,4R-Fluoro-N6-ethanimidoyl-L-lysine,Dihydrofolate reductase,CC(N)=NCCC(F)CC(N)C(=O)O,7.67
+DB13504,Cefetamet,Glutamate racemase,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C)CSC12)c1csc(N)n1,7.67
+DB09335,Alatrofloxacin,Flavodoxin,CC(N)C(=O)NC(C)C(=O)NC1C2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)CC21,7.67
+DB12326,Antroquinonol,Prolyl endopeptidase Pep,COC1=C(OC)C(O)C(CC=C(C)CCC=C(C)CCC=C(C)C)C(C)C1=O,7.67
+DB08665,"6,11-DIHYDRO-11-ETHYL-6-METHYL-9-NITRO-5H-PYRIDO[2,3-B][1,5]BENZODIAZEPIN-5-ONE",Heat shock protein HSP 90-beta,CCN1c2cc([N+](=O)[O-])ccc2N(C)C(=O)c2cccnc21,7.67
+DB02253,"(1r)-4-[(1e,3e,5e,7z,9e,11z,13e,15e)-17-Hydroxy-3,7,12,16-Tetramethylheptadeca-1,3,5,7,9,11,13,15-Octaen-1-Yl]-3,5,5-Trimethylcyclohex-3-En-1-Ol",Granulocyte-macrophage colony-stimulating factor receptor subunit alpha,CC(C=CC=C(C)C=CC1=C(C)CC(O)CC1(C)C)=CC=CC=C(C)C=CC=C(C)CO,7.67
+DB03631,"3-(4-hydroxy-3-imino-6-oxo-cyclohexa-1,4-dienyl)-alanine",Inward rectifier potassium channel 4,N=C1C=C(CC(N)C(=O)O)C(=O)C=C1O,7.67
+DB01711,"2,3,4,5,6-Pentafluorobenzyl Alcohol",Gamma-aminobutyric acid receptor subunit rho-1,OCc1c(F)c(F)c(F)c(F)c1F,7.67
+DB08239,"(2S)-4-(2,5-DIFLUOROPHENYL)-N-METHYL-2-PHENYL-N-PIPERIDIN-4-YL-2,5-DIHYDRO-1H-PYRROLE-1-CARBOXAMIDE",Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1,CN(C(=O)N1CC(c2cc(F)ccc2F)=CC1c1ccccc1)C1CCNCC1,7.67
+DB03736,2-Cyclopropylmethylenepropanal,Prostacyclin synthase,CC(C=O)CC1CC1,7.66
+DB00248,Cabergoline,Type I polyketide synthase PikAIV,C=CCN1CC(C(=O)N(CCCN(C)C)C(=O)NCC)CC2c3cccc4[nH]cc(c34)CC21,7.66
+DB15914,Cryptoxanthin,MAP kinase-interacting serine/threonine-protein kinase 1,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CC(O)CC1(C)C,7.66
+DB02628,"1-[3,3-Dimethyl-2-(2-Methylamino-Propionylamino)-Butyryl]-Pyrrolidine-2-Carboxylic Acid(1,2,3,4-Tetrahydro-Naphthalen-1-Yl)-Amide",Retinoic acid receptor RXR-beta,CNC(C)C(=O)NC(C(=O)N1CCCC1C(=O)NC1CCCc2ccccc21)C(C)(C)C,7.66
+DB13697,Ambazone,CAD protein,N=C(N)NN=C1C=CC(=NNC(N)=S)C=C1,7.65
+DB06724,Calcium carbonate,Phenylalanine--tRNA ligase beta subunit,O=C([O-])[O-].[Ca+2],7.65
+DB02468,12-Phenylheme,Gamma-aminobutyric acid receptor subunit alpha-1,C=Cc1c(C)c2n3c1C(c1ccccc1)=C1C(C)C(C=C)C4=Cc5c(C)c(CCC(=O)O)c6n5[Fe+2]3(N41)n1c(c(C)c(CCC(=O)O)c1=C6)=C2,7.65
+DB01443,19-Nor-5-androstenedione,D(1B) dopamine receptor,CC12CCC3C4CCC(=O)CC4=CCC3C1CCC2=O,7.65
+DB01543,18-methyl-19-nortestosterone,Inhibitor of nuclear factor kappa-B kinase subunit beta,CCC12CCC3C4CCC(=O)C=C4CCC3C1CCC2O,7.65
+DB02288,CRA-9334,Mitogen-activated protein kinase kinase kinase kinase 3,Cc1cc(Br)c([O-])c(-c2nc3cc(C(N)=[NH2+])ccc3[nH]2)c1,7.65
+DB04506,Chlorophyll B,DNA polymerase,C=Cc1c(C)c2cc3nc(c4c5[n-]c(cc6nc(cc1[n-]2)C(C=O)=C6CC)c(C)c5C(=O)C4C(=O)OC)C(CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C3C.[Mg+2],7.65
+DB04215,CRA_9076,Mitogen-activated protein kinase kinase kinase 6,Cc1cc(Br)c([O-])c(-c2cc3cc(C(N)=[NH2+])ccc3[nH]2)c1,7.64
+DB00136,Calcitriol,D-alanine--D-alanine ligase,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O,7.64
+DB13595,Almasilate,Fatty acid metabolism regulator protein,O.[Al+3].[Al+3].[Mg+2].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-],7.64
+DB09229,Aranidipine,Beta-lactamase SHV-1,COC(=O)C1=C(C)NC(C)=C(C(=O)OCC(C)=O)C1c1ccccc1[N+](=O)[O-],7.64
+DB03643,CRA_1144,Dual specificity mitogen-activated protein kinase kinase 6,NC(=[NH2+])c1ccc2[nH]c(-c3ccccc3[O-])nc2c1,7.64
+DB02048,"1,2,4-Triazole-Carboxamidine",Neuronal acetylcholine receptor subunit beta-2,NC(=[NH2+])n1cncn1,7.63
+DB15269,ALK-4290,NAD(P)H dehydrogenase (quinone),Cc1cc(C(=O)N(C)C)cc(NC(=O)C2CCC(=O)N2C2CCN(Cc3ccc(Cl)c(C)c3)CC2)n1,7.63
+DB13226,Acetylleucine,S-adenosylmethionine synthase,CC(=O)NC(CC(C)C)C(=O)O,7.63
+DB11509,Cupric glycinate,NUAK family SNF1-like kinase 1,NCC(=O)[O-].NCC(=O)[O-].[Cu+2],7.63
+DB03746,"3-Amino-4,5-Dihydroxy-Cyclohex-1-Enecarboxylate",Apolipoprotein B receptor,NC1C=C(C(=O)[O-])CC(O)C1O,7.63
+DB12314,Chlorproguanil,TGF-beta receptor type-2,CC(C)NC(=N)NC(=N)Nc1ccc(Cl)c(Cl)c1,7.63
+DB04777,(R)-4-Nitrostyrene oxide,Alcohol dehydrogenase 1A,O=[N+]([O-])c1ccc(C2CO2)cc1,7.63
+DB00258,Calcium acetate,Prolyl tripeptidyl peptidase,CC(=O)[O-].CC(=O)[O-].[Ca+2],7.63
+DB08642,"(2R,6S)-6-{[methyl(3,4,5-trimethoxyphenyl)amino]methyl}-1,2,5,6,7,8-hexahydroquinazoline-2,4-diamine",L-serine dehydratase/L-threonine deaminase,COc1cc(N(C)CC2CCC3=C(C2)C(N)=NC(N)N3)cc(OC)c1OC,7.63
+DB04364,(R)-acetoin,Sorbitol dehydrogenase,CC(=O)C(C)O,7.63
+DB06543,Astaxanthin,Cytochrome b-c1 complex subunit 7,CC(C=CC=C(C)C=CC1=C(C)C(=O)C(O)CC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)C(=O)C(O)CC1(C)C,7.63
+DB07021,"(7R,8R)-8-(2,4,5-trifluorophenyl)-6,7,8,9-tetrahydroimidazo[1,2-a:4,5-c']dipyridin-7-amine",Glycine N-acyltransferase-like protein 2,NC1Cn2c(nc3cnccc32)CC1c1cc(F)c(F)cc1F,7.62
+DB03212,4-Deoxyglucarate,DNA gyrase subunit B,O=C([O-])C(O)CC(O)C(O)C(=O)[O-],7.62
+DB03730,"3,9-Dimethyladenine",Protein S100-A8,Cn1cnc2c(N)nc[n+](C)c21,7.62
+DB03071,4-Methylidene-5-One,Spermidine/spermine N(1)-acetyltransferase,Cc1nc(C(C)N)n(CC(=O)O)c1O,7.62
+DB16354,Avasopasem manganese,Response regulator RamR,[Cl-].[Cl-].[Mn+2].c1cc2nc(c1)CNC1CCCCC1NCCNC1CCCCC1NC2,7.62
+DB07081,"(2R)-4-[(8R)-8-METHYL-2-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[1,5-A]PYRAZIN-7(8H)-YL]-4-OXO-1-(2,4,5-TRIFLUOROPHENYL)BUTAN-2-AMINE",Complement C1r subcomponent,CC1c2nc(C(F)(F)F)nn2CCN1C(=O)CC(N)Cc1cc(F)c(F)cc1F,7.62
+DB07465,"(1S,3S,5S)-2-{(2S)-2-amino-2-[(1R,3S,5R,7S)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile",Coagulation factor VII,N#CC1CC2CC2N1C(=O)C(N)C12CC3CC(CC(O)(C3)C1)C2,7.62
+DB02211,(R)-N-methyl-N-2-propynyl-1-indanamine,L-lactate dehydrogenase A chain,C#CCN(C)C1CCc2ccccc21,7.62
+DB06260,Aviptadil,"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial",CCC(C)C(NC(=O)C(CO)NC(=O)C(CC(N)=O)NC(=O)C(CC(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(NC(=O)C(C)NC(=O)C(CCSC)NC(=O)C(CCC(N)=O)NC(=O)C(CCCCN)NC(=O)C(C)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)C(C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(N)Cc1cnc[nH]1)C(C)C)C(C)O)C(O)CC)C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC(N)=O)C(=O)O,7.62
+DB03136,4-Iodobenzo[B]Thiophene-2-Carboxamidine,Indole-3-pyruvate decarboxylase,NC(=[NH2+])c1cc2c(I)cccc2s1,7.62
+DB08224,"(1S,7S,8S,8AR)-1,2,3,7,8,8A-HEXAHYDRO-7-METHYL-8-[2-[(2R,4R)-TETRAHYDRO-4-HY DROXY-6-OXO-2H-PYRAN-2-YL]ETHYL]-1-NAPHTHALENOL",Glucagon receptor,CC1C=CC2=CCCC(O)C2C1CCC1CC(O)CC(=O)O1,7.61
+DB07124,"(2S)-1-(6H-INDOL-3-YL)-3-{[5-(7H-PYRAZOLO[3,4-C]PYRIDIN-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE",Serine--pyruvate aminotransferase,NC(COc1cncc(C2=NCC3=NN=CC3=C2)c1)CC1=C2C=CCC=C2N=C1,7.61
+DB13682,Cefpirome,Interphotoreceptor matrix proteoglycan 2,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3cccc4c3CCC4)CSC12)c1csc(N)n1,7.61
+DB04671,[(1S)-4-[[Amino-[(2R)-2-amino-2-carboxyethyl]sulfanylmethylidene]amino]-1-carboxybutyl]azanium,NADH-ubiquinone oxidoreductase chain 6,NC(=NCCCC([NH3+])C(=O)O)SCC(N)C(=O)O,7.61
+DB12567,Camicinal,Kallikrein-7,CC1CN(Cc2ccc(CC(=O)N3CCC(Nc4cccc(F)c4)CC3)cc2)CCN1,7.61
+DB08140,"5-[(4-AMINOCYCLOHEXYL)AMINO]-7-(PROPAN-2-YLAMINO)PYRAZOLO[1,5-A]PYRIMIDINE-3-CARBONITRILE",Beta-lactamase,CC(C)Nc1cc(NC2CCC(N)CC2)nc2c(C#N)cnn12,7.61
+DB03938,Deacetoxycephalosporin C,NAD-dependent protein deacetylase sirtuin-2,CC1=C(C(=O)O)N2C(=O)C(NC(=O)CCCC(N)C(=O)O)C2SC1,7.61
+DB07557,"3,20-Pregnanedione",Thiopurine S-methyltransferase,CC(=O)C1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C,7.61
+DB13648,Alcuronium,Flavodoxin,C=CC[N+]12CCC34c5ccccc5N5C=C6C7CC8C9(CC[N+]8(CC=C)CC7=CCO)c7ccccc7N(C=C(C(CC31)C(=CCO)C2)C54)C69,7.61
+DB04613,"(E)-(4S,6S)-6-((S)-2-{(S)-2-[(FURAN-2-CARBONYL)-AMINO]-3-METHYL-BUTYRYLAMINO}-3-METHYL-BUTYRYLAMINO)-8-METHYL-5-OXO-4-((R)-2-OXO-PYRROLIDIN-3-YLMETHYL)-NON-2-ENOIC ACID ETHYL ESTER","Tryptophan--tRNA ligase, cytoplasmic",CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(NC(=O)c1ccoc1)C(C)C)C(C)C,7.6
+DB08873,Boceprevir,Calpain-3,CC(C)(C)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C,7.6
+DB00517,Anisotropine methylbromide,HTH-type transcriptional regulator QacR,CCCC(CCC)C(=O)OC1CC2CCC(C1)[N+]2(C)C.[Br-],7.6
+DB02658,"2,4-Dinitrophenyl 2-Deoxy-2-Fluoro-Beta-D-Allopyranoside",Tissue-type plasminogen activator,O=[N+]([O-])c1ccc(OC2OC(CO)C(O)C(O)C2F)c([N+](=O)[O-])c1,7.6
+DB01190,Clindamycin,Importin subunit alpha,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,7.6
+DB08579,"4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}aniline",C-terminal-binding protein 1,CC1CC(C)CN(C(=O)c2cc(Br)ccc2N)C1,7.6
+DB06879,"5-(4'-AMINO-1'-ETHYL-5',8'-DIFLUORO-1'H-SPIRO[PIPERIDINE-4,2'-QUINAZOLINE]-1-YLCARBONYL)PICOLINONITRILE",Glycosyl transferase,CCN1c2c(F)ccc(F)c2C(N)=NC12CCN(C(=O)C1=CN=C(C#N)CC1)CC2,7.6
+DB03173,CRA_10433,Serine/threonine-protein kinase SIK3,NC(=[NH2+])c1ccc2[nH]c(-c3cccc(OC4CCCC4)c3[O-])cc2c1,7.59
+DB12613,Davunetide,Gastric inhibitory polypeptide,CCC(C)C(NC(=O)C(CO)NC(=O)C(NC(=O)C1CCCN1C(=O)C(C)NC(=O)C(N)CC(N)=O)C(C)C)C(=O)N1CCCC1C(=O)NC(CCC(N)=O)C(=O)O,7.59
+DB07286,BMS-564929,Phosphodiesterase isozyme 4,Cc1c(N2C(=O)C3C(O)CCN3C2=O)ccc(C#N)c1Cl,7.59
+DB06117,"1alpha,24S-Dihydroxyvitamin D2",Alpha-2A adrenergic receptor,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(C)(O)C(C)C)CC(O)CC1O,7.59
+DB02092,Cholesteryl Linoleate,Calsequestrin-1,CCCCCC=CCC=CCCCCCCCC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCCC(C)C)CCC32)C1,7.59
+DB04470,CRA_10656,LIM domain kinase 2,CC(C)COc1cccc(-c2nc3cc(C(N)=[NH2+])ccc3[nH]2)c1[O-],7.59
+DB13519,Cerium oxalate,N-acylethanolamine-hydrolyzing acid amidase,O=C([O-])C(=O)[O-].O=C([O-])C(=O)[O-].O=C([O-])C(=O)[O-].[Ce+3].[Ce+3],7.59
+DB08795,Azidocillin,Peptide deformylase,CC1(C)SC2C(NC(=O)C(N=[N+]=[N-])c3ccccc3)C(=O)N2C1C(=O)O,7.59
+DB15568,Adagrasib,Cholesterol oxidase,C=C(F)C(=O)N1CCN(c2nc(OCC3CCCN3C)nc3c2CCN(c2cccc4cccc(Cl)c24)C3)CC1CC#N,7.59
+DB08128,"(1S,4R,9S)-5-(trifluoromethyl)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-9-amine",Fibroblast growth factor receptor 2,NC1C2CCC1c1c2cccc1C(F)(F)F,7.59
+DB07542,5-Amino-6-cyclohexyl-4-hydroxy-2-isobutyl-hexanoic acid,Neopullulanase 2,CC(C)CC(CC(O)C(N)CC1CCCCC1)C(=O)O,7.58
+DB14045,Cholesteryl chloride,Calcium and integrin-binding family member 2,CC(C)CCCC(C)C1CCC2C3CC=C4CC(Cl)CCC4(C)C3CCC12C,7.58
+DB01741,CRA_17693,Mitogen-activated protein kinase kinase kinase 12,NC(=[NH2+])c1ccc2[nH]c(-c3cc(C(CC(=O)[O-])C(=O)[O-])cc(-c4ccccc4F)c3[O-])nc2c1,7.58
+DB01959,"3,5-Dimethyl-1-(3-Nitrophenyl)-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",Adrenocorticotropic hormone receptor,CCOC(=O)c1c(C)nn(-c2cccc([N+](=O)[O-])c2)c1C,7.58
+DB14733,Ceftobiprole medocaril,RNA polymerase sigma factor SigA,Cc1oc(=O)oc1COC(=O)N1CCC(N2CCC(=CC3=C(C(=O)O)N4C(=O)C(NC(=O)C(=NO)c5nsc(N)n5)C4SC3)C2=O)C1,7.58
+DB07669,"2,3-Dimethyl-1,4-naphthoquinone",Cysteinyl leukotriene receptor 1,CC1=C(C)C(=O)c2ccccc2C1=O,7.58
+DB11782,Birinapant,Tubulin beta-2B chain,CCC(NC(=O)C(C)NC)C(=O)N1CC(O)CC1Cc1c(-c2[nH]c3cc(F)ccc3c2CC2CC(O)CN2C(=O)C(CC)NC(=O)C(C)NC)[nH]c2cc(F)ccc12,7.57
+DB01479,BA-2664,Eukaryotic translation initiation factor 2 subunit 3,CC12CCC(O)CC1CCC1C2CCC2(C)C1CCC2(C)O,7.57
+DB03099,5-Amino 6-Nitro Uracil,L-asparaginase,Nc1c([N+](=O)[O-])[nH]c(=O)[nH]c1=O,7.57
+DB03056,4-Piperidino-Piperidine,Aminotransferase,C1CCN(C2CCNCC2)CC1,7.57
+DB08740,"CYCLOHEXYLMETHYL-2,3-DIHYDROXY-5-METHYL-HEXYLAMIDE",Serine/threonine-protein kinase 10,CC(C)CC(O)C(O)C(N)CC1CCCCC1,7.57
+DB04629,Aplyronine A,Tyrosine phenol-lyase,COCC(C(=O)OC1CC=CC=CC(=O)OC(C(C)C(O)C(C)CCC(OC(=O)C(C)N(C)C)C(C)C(OC(C)=O)C(C)C=CN(C)C=O)CC=CC(OC)CC(C)CC=C(C)C(OC)CCC(C)C(O)C1C)N(C)C,7.57
+DB04276,4-[[(2S)-2-[[(2S)-3-Carboxy-2-hydroxypropanoyl]amino]-4-methylpentanoyl]amino]butyl-(diaminomethylidene)azanium,Poly(A) polymerase alpha,CC(C)CC(NC(=O)C(O)CC(=O)O)C(=O)NCCCC[NH+]=C(N)N,7.57
+DB09326,Ammonia N-13,Ribose 5-phosphate isomerase B,N,7.56
+DB16580,Afimetoran,H subunit of photosynthetic reaction center complex,Cc1c(-c2[nH]c3ccc(C4CCN(CC(N)=O)CC4)cc3c2C(C)C)cn2ncnc2c1C,7.56
+DB01521,Clostebol,60S ribosomal protein L21,CC12CCC(=O)C(Cl)=C1CCC1C2CCC2(C)C(O)CCC12,7.56
+DB02924,"(4R)-limonene 1Î±,2Î±-epoxide",Excitatory amino acid transporter 2,C=C(C)C1CCC2(C)OC2C1,7.56
+DB06841,"[(2R)-1-[(2S)-2-[[(2S,3S)-1-Chloro-6-(diaminomethylideneamino)-2-hydroxyhexan-3-yl]carbamoyl]pyrrolidin-1-yl]-1-oxo-3-phenylpropan-2-yl]azanium",NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,NC(N)=NCCCC(NC(=O)C1CCCN1C(=O)C([NH3+])Cc1ccccc1)C(O)CCl,7.56
+DB13010,4-isothioureidobutyronitrile,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,N#CCCCSC(=N)N,7.56
+DB00169,Cholecalciferol,Peflin,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)CCCC(C)C,7.56
+DB12225,Beclabuvir,Chaperone protein ClpB,COc1ccc2c(c1)C1CC1(C(=O)N1C3CCC1CN(C)C3)Cn1c-2c(C2CCCCC2)c2ccc(C(=O)NS(=O)(=O)N(C)C)cc21,7.56
+DB00314,Capreomycin,30S ribosomal protein S2,CC1NC(=O)C(N)CNC(=O)C(C2CCN=C(N)N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CNC(=O)CC(N)CCCN)NC1=O.NCCCC(N)CC(=O)NCC1NC(=O)C(CO)NC(=O)C(N)CNC(=O)C(C2CCN=C(N)N2)NC(=O)C(=CNC(N)=O)NC1=O,7.55
+DB15243,2-(1-Hexyloxyethyl)-2-devinyl pyropheophorbide-a,High affinity nerve growth factor receptor,CCCCCCOC(C)c1c(C)c2cc3nc(c4c5[nH]c(cc6nc(cc1[nH]2)C(C)=C6CC)c(C)c5C(=O)C4)C(CCC(=O)O)C3C,7.55
+DB04617,"(9S)-9-[(8-AMMONIOOCTYL)AMINO]-1,2,3,4,9,10-HEXAHYDROACRIDINIUM","Creatine kinase U-type, mitochondrial",[NH3+]CCCCCCCCNc1c2c([nH+]c3ccccc13)CCCC2,7.55
+DB04063,alpha-Methylleucine,Guanine deaminase,CC(C)CC(C)(N)C(=O)O,7.55
+DB13626,Aluminium glycinate,"Inositol 1,4,5-trisphosphate receptor type 1",NCC(=O)[O-].O.[Al+3].[OH-].[OH-],7.55
+DB07949,"({[(3E)-2'-Oxo-2',7'-dihydro-2,3'-biindol-3(7H)-ylidene]amino}oxy)acetic acid",Low affinity immunoglobulin gamma Fc region receptor III-B,O=C(O)CON=C1C2=CC=CCC2=NC1=C1C(=O)N=C2CC=CC=C21,7.55
+DB04975,Banoxantrone,Isocitrate lyase,C[N+](C)([O-])CCNc1ccc(NCC[N+](C)(C)[O-])c2c1C(=O)c1c(O)ccc(O)c1C2=O,7.55
+DB02725,"2-Amino-4-(4-Amino-Cyclohexa-2,5-Dienyl)-Butyric Acid","[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial",NC1C=CC(CCC(N)C(=O)O)C=C1,7.55
+DB11688,2-chloroethyl-3-sarcosinamide-1-nitrosourea,"Acetyl-CoA acetyltransferase, mitochondrial",CN(CC(N)=O)C(=O)N(CCCl)N=O,7.55
+DB00439,Cerivastatin,Corticotropin-releasing factor receptor 1,COCc1c(C(C)C)nc(C(C)C)c(C=CC(O)CC(O)CC(=O)O)c1-c1ccc(F)cc1,7.54
+DB06947,1-[(2R)-2-aminobutanoyl]-N-(4-carbamimidoylbenzyl)-L-prolinamide,Serine-protein kinase ATM,CCC(N)C(=O)N1CCCC1C(=O)NCc1ccc(C(=N)N)cc1,7.54
+DB01764,Dalfopristin,Metal regulatory transcription factor 1,CCN(CC)CCS(=O)(=O)C1CCN2C(=O)c3coc(n3)CC(=O)CC(O)C=C(C)C=CCNC(=O)C=CC(C)C(C(C)C)OC(=O)C12,7.54
+DB07137,(2S)-N-[(3E)-5-Cyclopropyl-3H-pyrazol-3-ylidene]-2-[4-(2-oxo-1-imidazolidinyl)phenyl]propanamide,Monocarboxylate transporter 7,CC(C(=O)N=C1C=C(C2CC2)N=N1)c1ccc(N2CCNC2=O)cc1,7.54
+DB01524,Androstenediol,Oxysterols receptor LXR-beta,CC12CCC(O)CC1=CCC1C2CCC2(C)C(O)CCC12,7.54
+DB07864,4-[(CYCLOPROPYLETHYNYL)OXY]-6-FLUORO-3-ISOPROPYLQUINOLIN-2(1H)-ONE,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",CC(C)c1c(OC#CC2CC2)c2cc(F)ccc2[nH]c1=O,7.54
+DB00479,Amikacin,Cyclin-dependent kinase 6,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O,7.54
+DB01771,CRA_10991,Dual specificity mitogen-activated protein kinase kinase 3,NC(=[NH2+])c1cc2cc(-c3cccc(OC4CCCC4)c3[O-])[nH]c2cc1Cl,7.54
+DB09061,Cannabidiol,30S ribosomal protein S19,C=C(C)C1CCC(C)=CC1c1c(O)cc(CCCCC)cc1O,7.53
+DB08071,"(2S)-1-methyl-2-[(2S,4R)-2-methyl-4-phenylpentyl]piperidine","Glycogen phosphorylase, muscle form",CC(CC(C)c1ccccc1)CC1CCCCN1C,7.53
+DB03882,"5-Alpha-Androstane-3-Beta,17beta-Diol",Amylase,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2O,7.53
+DB04782,(S)-4-Nitrostyrene oxide,Aldo-keto reductase family 1 member C1,O=[N+]([O-])c1ccc(C2CO2)cc1,7.53
+DB13298,Alsactide,"Endo-beta-1,4-xylanase Xyn10C",CSCCC(NC(=O)C(CO)NC(=O)C(Cc1ccc(O)cc1)NC(=O)CCN)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]cn1)C(=O)NC(Cc1ccccc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NCC(=O)NC(CCCCN)C(=O)N1CCCC1C(=O)NC(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NCCCCN)C(C)C,7.53
+DB03914,"[2-(1-amino-2-hydroxy-propyl)-4-(1H-indol-3-ylmethylene)-5-oxo-4,5-dihydro-imidazol-1-yl]-acetaldehyde",Methylsterol monooxygenase 1,CC(O)C(N)C1=NC(=Cc2c[nH]c3ccccc23)C(=O)N1CC(=O)O,7.53
+DB15231,Brimapitide,Potassium voltage-gated channel subfamily C member 2,CC(C)CC(NC(=O)C(Cc1ccccc1)NC(=O)C1CCCN1C(=O)C(CCC(N)=O)NC(=O)C(NC(=O)C1CCCN1C(=O)C(CCCNC(=N)N)NC(=O)C(CO)NC(=O)C(CCC(N)=O)NC(=O)C(N)CC(=O)O)C(C)C)C(=O)NC(CC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(C(=O)NC(C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(N)=O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NCC(N)=O)C(C)O)C(C)O,7.53
+DB04479,4-Nitro-Inden-1-One,Aac(6')-Ii protein,O=C1C=Cc2c1cccc2[N+](=O)[O-],7.53
+DB03653,"5-{[Ethyl(Methyl)Amino]Methyl}-2-Methyl-5,6-Dihydropyrimidin-4-Amine",Holliday junction ATP-dependent DNA helicase RuvB,CCN(C)Cc1cnc(C)nc1N,7.53
+DB03286,C-(1-Azido-Alpha-D-Glucopyranosyl) Formamide,Fumarate reductase flavoprotein subunit,[N-]=[N+]=NC1(C(N)O)OC(CO)C(O)C(O)C1O,7.52
+DB03243,4-Fluorobenzylamine,Alpha-ketoglutarate-dependent taurine dioxygenase,[NH3+]Cc1ccc(F)cc1,7.52
+DB03533,Acetyleneurea,(S)-2-haloacid dehalogenase,O=C1NC2NC(=O)NC2N1,7.52
+DB08246,"(2S)-4-(2,5-DIFLUOROPHENYL)-N,N-DIMETHYL-2-PHENYL-2,5-DIHYDRO-1H-PYRROLE-1-CARBOXAMIDE",Catechol O-methyltransferase,CN(C)C(=O)N1CC(c2cc(F)ccc2F)=CC1c1ccccc1,7.52
+DB02529,"(2R,4S,5R,6R)-5-Acetamido-4-amino-6-(diethylcarbamoyl)oxane-2-carboxylic acid",Antizyme inhibitor 2,CCN(CC)C(=O)C1OC(C(=O)O)CC(N)C1NC(C)=O,7.52
+DB09231,Benidipine,Axin-1,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,7.52
+DB03253,(2s)-Pyrrolidin-2-Ylmethylamine,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",NCC1CCCN1,7.52
+DB01786,D-Alanine,Histone-lysine N-methyltransferase EZH2,CC(N)C(=O)O,7.52
+DB00148,Creatine,Mitogen-activated protein kinase kinase kinase kinase 4,CN(CC(=O)O)C(=N)N,7.51
+DB02173,Co(III)-(Deuteroporphyrin IX),Serine/threonine-protein kinase D1,CC1=Cc2cc3[nH]c(cc4nc(cc5[n-]c(cc1n2)cc5C)C(C)=C4CCC(=O)O)c(CCC(=O)[O-])c3C.[Co+7],7.51
+DB02490,(Diaminomethyl-Methyl-Amino)-Acetic Acid,Leucine carboxyl methyltransferase 1,CN(CC(=O)O)C(N)N,7.51
+DB04103,3-Methylcytosine,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,C[n+]1c(N)cc[nH]c1=O,7.51
+DB13262,Aceclidine,Protein RecA,CC(=O)OC1CN2CCC1CC2,7.51
+DB04404,Allosamizoline,"Alanine racemase, catabolic",CN(C)C1=NC2C(O)C(O)C(CO)C2O1,7.51
+DB13102,AZD-8418,Glycerol uptake operon antiterminator regulatory protein,CC(C1CC1)N1Cc2cc(-c3cc(C(=O)N(C)C)no3)cc(Cl)c2C1=O,7.51
+DB08307,"2-{HYDROXY[2-NITRO-4-(TRIFLUOROMETHYL)PHENYL]METHYLENE}CYCLOHEXANE-1,3-DIONE",Ig kappa chain V-II region RPMI 6410,O=C1CCCC(=O)C1=C(O)c1ccc(C(F)(F)F)cc1[N+](=O)[O-],7.51
+DB02541,4-Hydroxybutan-1-Aminium,Amidophosphoribosyltransferase,[NH3+]CCCCO,7.51
+DB04839,Cyproterone acetate,Ribosome-binding protein 1,CC(=O)OC1(C(C)=O)CCC2C3C=C(Cl)C4=CC(=O)C5CC5C4(C)C3CCC21C,7.51
+DB01456,5-androstenedione,Glucose-6-phosphate isomerase B,CC12CCC3C(CC=C4CC(=O)CCC43C)C1CCC2=O,7.51
+DB02854,Aetiocholanolone,Ferredoxin--NADP reductase,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,7.51
+DB15026,CXA-10,Cyclin-dependent kinase 17,CCCCCCCCC(=CCCCCCCCC(=O)O)[N+](=O)[O-],7.5
+DB04380,Allantoate,Flavodoxin-1,NC(=O)NC(NC(N)=O)C(=O)[O-],7.5
+DB01481,1-Testosterone,Penicillin-binding protein 2,CC12C=CC(=O)CC1CCC1C2CCC2(C)C(O)CCC12,7.5
+DB09227,Barnidipine,Xanthan lyase,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,7.5
+DB00115,Cyanocobalamin,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta,CC1=C2N=C(C=C3N=C(C(C)=C4C(CCC(N)=O)C(C)(CC(N)=O)C(C)(C5N=C1C(C)(CCC(=O)NCC(C)OP(=O)([O-])OC1C(CO)OC(n6cnc7cc(C)c(C)cc76)C1O)C5CC(N)=O)N4[Co+]C#N)C(C)(CC(N)=O)C3CCC(N)=O)C(C)(C)C2CCC(N)=O,7.5
+DB13738,Camylofin,Met proto-oncogene variant,CCN(CC)CCNC(C(=O)OCCC(C)C)c1ccccc1,7.5
+DB02199,"1,3-Dedimethyl-1,3-Divinyl Heme",Delta-type opioid receptor,C=Cc1c(C=C)c2n3c1C=c1c(C)c(CCC(=O)O)c4n1[Fe]31n3c(c(C)c(CCC(=O)O)c3C=4)C=c3c(C=C)c(C=C)c(n31)=C2,7.5
+DB14806,Avexitide,Dual specificity protein phosphatase 23,CCC(C)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(N)=O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(N)CC(=O)O)C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(N)=O)C(=O)NCC(=O)NCC(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(CO)C(N)=O,7.5
+DB15557,"24-Homo-1,25-dihydroxyvitamin D3",Probable pyruvate-flavodoxin oxidoreductase,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCCC(C)(C)O)CC(O)CC1O,7.5
+DB13350,Azanidazole,Porin D,Cn1c([N+](=O)[O-])cnc1C=Cc1ccnc(N)n1,7.5
+DB02414,Cyclo(his-pro),cGMP-dependent protein kinase 2,O=C1NC(Cc2cnc[nH]2)C(=O)N2CCCC12,7.5
+DB08504,"6-(4-{(1S,2S)-2-AMINO-1-[(DIMETHYLAMINO)CARBONYL]-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-3-OXOPROPYL}PHENYL)-1H-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-4-IUM",Orf protein,CN(C)C(=O)C(c1ccc(-c2ccc3ncnn3c2)cc1)C(N)C(=O)N1CCC(F)C1,7.5
+DB00803,Colistin,Serine/threonine-protein kinase tousled-like 2,CCC(C)CCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,7.5
+DB01949,"2-Amino-N,3,3-Trimethylbutanamide",Protein S100-A13,CNC(=O)C(N)C(C)(C)C,7.5
+DB09387,Cyanocobalamin Co-60,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,CC1=C2N=C(C=C3N=C(C(C)=C4[N-]C(C(CC(N)=O)C4(C)CCC(=O)NCC(C)OP(=O)([O-])OC4C(CO)OC(n5cnc6cc(C)c(C)cc65)C4O)C4(C)N=C1C(CCC(N)=O)C4(C)CC(N)=O)C(CCC(N)=O)C3(C)C)C(CCC(N)=O)C2(C)CC(N)=O.[C-]#N.[Co+3],7.5
