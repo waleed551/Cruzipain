@@ -8,4 +8,5 @@ for final potent inhibitors that exhibited strong binding interactions. These re
 
 # Graphical Abstract
 
-![Uploading flowchart.png…]()
+
+![flowchart](https://github.com/waleed551/Cruzipain/assets/84854489/8339ede1-d817-4dbf-aca6-f6e8ca5d8900)
